@@ -5,7 +5,7 @@ def hello
 end 
 
 def raise_hand 
-  timesuper 
+ 10.timesuper 
   puts "Pick me!"
   
   
